@@ -6,7 +6,9 @@
 #tag-3 .slick {
   display: none;
 }
-
+#tag-2 {
+  display: none;
+}
 #tag-5 .slick {
   display: none;
 }  
